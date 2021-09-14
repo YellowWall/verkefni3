@@ -1,0 +1,184 @@
+body {
+    display: block;
+    background-color: #fff;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-spacing: 0;
+    width: 100%;
+    position: fixed;
+  }
+main#efni{
+    display: block;
+    margin:auto;
+    width: 50%;
+}
+div#mynd {
+    float:left;
+    display:block;
+    width: 60%;
+    margin: 0;
+}
+img {
+    width: 100%;
+}
+div#texti {
+    float: left;
+    width:66%;
+    margin: 0;
+}
+
+section#courses {
+    display: block;
+    position: fixed;
+    margin: auto;
+    width:50%;
+}
+div#myndband{
+    display: block;
+    position: relative;
+    float: right;
+    margin:0;
+    width: 30%;
+}
+header {
+    margin:auto;
+    text-align: center;
+    background-color: white;
+}
+nav {
+    margin: auto;
+    margin-bottom: 14px;
+    text-align: center;
+  }
+
+table {
+    width: 90%;
+    border-spacing: 0;
+    border: 1px solid black;
+    margin:auto;
+    }
+
+td:first-child {
+    border: 1px solid black;
+    border-spacing: 0;
+  }
+  td:nth-child(2){
+      border:1px solid black;
+}
+td:nth-child(3){
+    border:1px solid black;
+}
+div#fyrsta {
+    position: relative;
+    float: left;
+    width: 50%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 8pt;
+    margin-bottom: auto;
+    
+}
+div#annað {
+    position: relative;
+    float: right;
+    width: 50%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 8pt;
+    margin-bottom: auto;
+}
+div#þriðja{
+    position: relative;
+    float: left;
+    width: 50%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 0;
+    margin-bottom: 14px;
+}
+div#óháð{
+    position: relative;
+    float: right;
+    width: 50%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 8pt;
+    margin-bottom: auto;
+}
+main#faq{
+    float:inherit;
+    margin:auto;
+    width: 50%;
+    text-align: left;
+}
+details {
+    border-radius: 4px;
+    padding: .5em .5em 0;
+    margin-bottom: 16pt;
+}
+
+summary {
+    text-align: left;
+    font-weight: bold;
+    margin: -.5em -.5em 0;
+    padding: .5em;
+    border-bottom: 1px solid black;
+}
+
+details[open] {
+    text-align: left;
+    padding: .5em;
+}
+
+details[open] summary {
+    border-bottom: 1px solid black;
+    margin-bottom: 16pt;
+}
+div#beint{
+    display:block;
+    text-align: center;
+}
+main#apply {
+    margin:auto;
+    width: 50%;
+
+}
+div#apply {
+    display: block;
+    width: 100%;
+}
+div#box1 {
+    width: 25%;
+    position: relative;
+    float:left;
+}
+div#box2 {
+    width: 25%;
+    position: relative;
+    float: left;
+}
+div#box3 {
+    width: 25%;
+    position: relative;
+    float: left;
+}
+div#box4 {
+    width: 25%;
+    position: relative;
+    float: left;
+}
+fieldset#files {
+    width: 100%;
+    overflow: hidden;
+}
+div#takki {
+    position: relative;
+    float:left;
+}
+
+select#kjorsvid {
+    width:100%;
+    overflow: hidden;
+}
