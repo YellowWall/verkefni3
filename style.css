@@ -7,7 +7,6 @@ body {
     list-style: none;
     border-spacing: 0;
     width: 100%;
-    position: fixed;
   }
 main#efni{
     display: block;
@@ -174,9 +173,9 @@ fieldset#files {
     overflow: hidden;
 }
 div#takki {
-    position: relative;
-    float:left;
-}
+    display: block;
+    clear: both;
+    }
 
 select#kjorsvid {
     width:100%;
